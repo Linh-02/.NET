@@ -1,0 +1,15 @@
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.csproj.AssemblyReference.cache
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.AssemblyInfoInputs.cache
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.AssemblyInfo.cs
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.csproj.CoreCompileInputs.cache
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\bin\Debug\net6.0\Loop_exercise.exe
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\bin\Debug\net6.0\Loop_exercise.deps.json
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\bin\Debug\net6.0\Loop_exercise.runtimeconfig.json
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\bin\Debug\net6.0\Loop_exercise.dll
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\bin\Debug\net6.0\Loop_exercise.pdb
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.dll
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\refint\Loop_exercise.dll
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.pdb
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\Loop_exercise.genruntimeconfig.cache
+D:\Jetbrains Rider\Loop_exercise\Loop_exercise\obj\Debug\net6.0\ref\Loop_exercise.dll
